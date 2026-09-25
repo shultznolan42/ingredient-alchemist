@@ -42,7 +42,7 @@ An AI-powered recipe generator that helps home cooks create delicious meals usin
 
 ## 🚀 Getting Started
 
-### 1. Install Dependencies
+### 1. cd into directory
 Navigate to the ingredient-alchemist folder
 
 ### 2. Install Dependencies
