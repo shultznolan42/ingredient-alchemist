@@ -43,17 +43,20 @@ An AI-powered recipe generator that helps home cooks create delicious meals usin
 ## 🚀 Getting Started
 
 ### 1. Install Dependencies
+Navigate to the ingredient-alchemist folder
+
+### 2. Install Dependencies
 ```bash
 npm install
 ```
 
-### 2. Run the Development Server
+### 3. Run the Development Server
 ```bash
 npm run dev
 ```
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-### 3. (Optional) Provide API Keys
+### 4. (Optional) Provide API Keys
 You can either create a `.env` file from `.env.example`:
 ```bash
 cp .env.example .env
